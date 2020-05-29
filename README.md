@@ -1,5 +1,5 @@
 # Run Java files on Terminal
-* Simply run Java files on terminal without using **javac** & **java** seprately
+* Simply run Java files on terminal without using **javac** & **java** separately
 * Deletes the class files too from the directory
 * Runs the Java file in 1 line
 * Minimal & Elegant 
